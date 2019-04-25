@@ -6,7 +6,7 @@ Figure 2 in the paper shows some dummy examples of k-means and hierarchical clus
 ![Idealized segmentation](.static_images/kmeans_idealized.png)
 ![Idealized segmentation](.static_images/kmeans_realistic.png)
 
-The code to generate these graphs can be found in the notebook [show_clustering_examples.ipynb](show_clustering_examples.ipynb]) in this repository. The data simulation, clustering, and plotting is performed in the supporting script called [segmentation_helpers.R](segmentation_helpers.R). Feel free to copy the code to your own computer and play around by generating different shapes of data and seeing how the clustering algorithms perform.
+The code to generate these graphs can be found in the notebook [show_clustering_examples.ipynb](show_clustering_examples.ipynb) in this repository. The data simulation, clustering, and plotting is performed in the supporting script called [segmentation_helpers.R](segmentation_helpers.R). Feel free to copy the code to your own computer and play around by generating different shapes of data and seeing how the clustering algorithms perform.
 
 In addition to what is in the paper, the notebook contains:
 
