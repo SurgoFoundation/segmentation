@@ -37,7 +37,9 @@ df = GenerateClusteredData(
 GenerateAndPlotClusters(df, plot.label = 'idealized', do.dendrogram = FALSE)
 ```
 
+
 And you should see a graph like this:
+
 ![Idealized segmentation](.static_images/kmeans_idealized.png)
 
 ### Running the Jupyter Notebook
